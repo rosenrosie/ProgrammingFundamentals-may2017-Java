@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/L01_C-sharpIntroAndBasicSyntax-Lab" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/L02_C-sharp_IntroAndBasicSyntax-Exercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/L03_C-sharp_ConditionalStatementsAndLoops" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/L04_C-sharp_ConditionalStatementsAndLoops-Exercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/L05_C-sharp_Basics-MoreExercises" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
